@@ -1,0 +1,9 @@
+The Adapter Pattern converts the interface of a class
+into another interface the clients expect. Adapter lets
+classes work together that couldn’t otherwise because of
+incompatible interfaces.
+
+In this example, we make use of the Adapter Pattern, to
+cook Upma from Idli. Here, the already prepared Idli is sent to
+the Idli-Upma Adapter, and the rest of the process is carried out inside
+it, to finally produce Upma made from Idli.
